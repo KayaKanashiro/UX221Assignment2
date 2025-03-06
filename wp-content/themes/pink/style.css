@@ -1,12 +1,12 @@
 /*
-Theme Name:     Blue
-Description:    a blue theme
+Theme Name:     Pink
+Description:    
 Author:         kkanashiro
-Template:       twentytwentyfour
+Template:       hello-elementor
 
 (optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
 */
 
-#content a{
+#site-header a, #content a{
     color: #3a3896
 }
