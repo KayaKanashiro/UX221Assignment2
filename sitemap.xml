@@ -2,7 +2,12 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/hello-world/
+            http://localhost:8000/celebrating-maddys-20th-birthday/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/card-games-with-friends/
         </loc>
     </url>
     <url>
